@@ -3,7 +3,7 @@ import bs58 from 'bs58';
 
 const JUPITER_LIMIT_ORDER_PROGRAM = 'jupoNjAxXgZ4rjzxzPMP4oxduvQsQtZzyknqvzYNrNu';
 
-const connection = new solanaWeb3.Connection("https://api.mainnet-beta.solana.com", 'confirmed');
+const connection = new solanaWeb3.Connection("https://quiet-thrilling-bush.solana-mainnet.quiknode.pro/517007fa157e2a1a8f992d28a500588227d9d6f2/", 'confirmed');
 
 const txLimit = 100;
 const delayTime = 250;
